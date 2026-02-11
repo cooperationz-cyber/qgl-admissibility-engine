@@ -1,3 +1,0 @@
-[console_scripts]
-qgl-run = qgl.admissibility_engine:main
-qgl-test = qgl.collapse_test:main
