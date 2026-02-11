@@ -1,0 +1,19 @@
+boundary NormalSet {
+    Elements
+}
+
+domain Elements {
+    apple, banana, cherry
+}
+
+boundary FirstBoundary {
+    SecondBoundary
+}
+
+boundary SecondBoundary {
+    ExternalReference
+}
+
+domain ExternalReference {
+    something_else
+}

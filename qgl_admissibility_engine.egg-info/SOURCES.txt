@@ -1,0 +1,13 @@
+ATTRIBUTION.md
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.py
+qgl_admissibility_engine.egg-info/PKG-INFO
+qgl_admissibility_engine.egg-info/SOURCES.txt
+qgl_admissibility_engine.egg-info/dependency_links.txt
+qgl_admissibility_engine.egg-info/entry_points.txt
+qgl_admissibility_engine.egg-info/requires.txt
+qgl_admissibility_engine.egg-info/top_level.txt
