@@ -1,4 +1,12 @@
 include LICENSE
-include ATTRIBUTION.md
 include README.md
-include requirements.txt
+include ATTRIBUTION.md
+include main.py
+recursive-include qgl *.py
+recursive-include engine *.py
+recursive-include demos *.py
+recursive-include tests *.py
+global-exclude __pycache__
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *.so
